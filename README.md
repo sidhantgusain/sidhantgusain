@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing Enterprise Applications**
 
-- 🌱 I’m currently learning **AWS to design solutions on cloud.**
+- 🌱 I’m currently learning **AWS to design & deploy scalable & reliable solutions on cloud.**
 
 - 💬 Ask me about **anything**
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sidhant</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **cloud-native backend systems and API-driven architectures.**
+- 🔭 I’m currently working on **building cloud-native backend systems and API-driven architectures.**
 
 - 🌱 I’m currently learning **AI integrations, Kubernetes, and scalable cloud deployments with AWS.**
 
-- 💬 Ask me about **backend development, cloud services, DevOps workflows, or building scalable systems.**
+- 💬 Ask me about **backend development, cloud services, DevOps workflows, building scalable systems or life.**
 
 - 📄 Know about my experiences [click here](https://drive.google.com/file/d/11UBDiT0Ro7SX62Yzv0qZ5imCgK6N-EuB/view?usp=sharing)
 

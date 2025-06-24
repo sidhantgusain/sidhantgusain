@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **backend development, cloud services, DevOps workflows, or building scalable systems.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11UBDiT0Ro7SX62Yzv0qZ5imCgK6N-EuB/view?usp=sharing](https://drive.google.com/file/d/11UBDiT0Ro7SX62Yzv0qZ5imCgK6N-EuB/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/11UBDiT0Ro7SX62Yzv0qZ5imCgK6N-EuB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

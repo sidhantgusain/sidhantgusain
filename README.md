@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sidhant</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **developing Enterprise Applications**
+- 🔭 I’m currently working on **cloud-native backend systems and API-driven architectures.**
 
-- 🌱 I’m currently learning **AWS to design & deploy scalable & reliable solutions on cloud.**
+- 🌱 I’m currently learning **AI integrations, Kubernetes, and scalable cloud deployments with AWS.**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **backend development, cloud services, DevOps workflows, or building scalable systems.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N-Kdk-GB6W2z_Bs4yIRagpkhO5DUDWiD/view?usp=sharing](https://drive.google.com/file/d/1N-Kdk-GB6W2z_Bs4yIRagpkhO5DUDWiD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11UBDiT0Ro7SX62Yzv0qZ5imCgK6N-EuB/view?usp=sharing](https://drive.google.com/file/d/11UBDiT0Ro7SX62Yzv0qZ5imCgK6N-EuB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
